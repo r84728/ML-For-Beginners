@@ -1,4 +1,4 @@
-# Introduction to natural language processing
+# Introduction to natural language processin
 
 This lesson covers a brief history and important concepts of *natural language processing*, a subfield of *computational linguistics*.
 
