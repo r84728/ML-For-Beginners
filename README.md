@@ -32,8 +32,9 @@ i am hungry
 
 wtf
 - i am hungry
+- [![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "H video")
+
 # Getting Started
-[![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "H video")
 
 **[Students](https://aka.ms/student-page)**, to use this curriculum, fork the entire repo to your own GitHub account and complete the exercises on your own or with a group:
 
